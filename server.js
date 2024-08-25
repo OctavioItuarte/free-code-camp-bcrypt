@@ -21,6 +21,7 @@ async function hashAndCompare(){
     });
   });
 }
+await hashAndCompare();
 
 //END_ASYNC
 
